@@ -1,2 +1,8 @@
-Includes R Studio file with all of my code and some interpretations of beta coefficients.
+Includes R Studio file with all of my code and some interpretations of beta coefficients. Also includes testing of the regression assumptions: 
+1) Residuals are linear (Linearity)
+2) Residuals follow a normal distribution (Multivariate normality)
+3) Residuals have equal (constant) variance (Homoscedasticity)
+4) Residuals are uncorrelated (Independence)
+5) Little correlation between predictor variables (Little to No multicollinearity)
+
 Includes the dataset which is the xlsx file. 
