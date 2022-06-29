@@ -1,4 +1,5 @@
-Includes R Studio file with all of my code and some interpretations of beta coefficients. Also includes testing of the regression assumptions: 
+Includes R Studio file with all of my code and some interpretations of beta coefficients. 
+Also includes testing of the regression assumptions: 
 1) Residuals are linear (Linearity)
 2) Residuals follow a normal distribution (Multivariate normality)
 3) Residuals have equal (constant) variance (Homoscedasticity)
