@@ -1,4 +1,5 @@
 This is a project where I created a map of the US and looked at four different variables from 1998-2012.
-I used a PowerBI visual called "Play Axis" in order to transition from year to year, so you may need to add that visual to your PowerBI in order for it to work properly.
+I have included a gif of the visualization. 
+I used a PowerBI visual called "Play Axis" in order to transition from year to year, so you may need to add that visual to your PowerBI in order for it to work properly if you want to view the visualization in PowerBI.
 I have included the original excel data, the Power BI file, and a pdf that shows what the PowerBI dahsboard looks like (cannot interact with it but can download the 
 PowerBI file and interact). 
